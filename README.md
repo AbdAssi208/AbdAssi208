@@ -9,7 +9,7 @@
 
 ## 🚀 Skills  
 - Programming: Java, Python, C  
-- CS Fundamentals: Data Structures, Algorithms, Computational Models  
+- CS Fundamentals: Data Structures, Computational Models  
 - Tools: Git, GitHub, Linux  
 - Math: Calculus, Linear Algebra, Discrete Math  
 

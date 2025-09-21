@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Abdallah 👋  
 
-<!--
-**AbdAssi208/AbdAssi208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Science & Management student at Tel Aviv University  
+💻 Learning and building projects in **Java, Python, Data Structures, and Algorithms**  
+☁️ Focused on **Cloud Computing & Software Engineering**  
+🤝 Mentor in the **Perach program** – supporting school students in learning and personal growth  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+- Programming: Java, Python, C  
+- CS Fundamentals: Data Structures, Algorithms, Computational Models  
+- Tools: Git, GitHub, Linux  
+- Math: Calculus, Linear Algebra, Discrete Math  
+
+---
+
+## 📂 Projects  
+- [Java Game Project](#) – A simple game built during my Software course using OOP principles  
+- [OOP Exercises](#) – Small projects practicing classes, inheritance, and object design in Java  
+
+---
+
+## 🌍 Connect with me  
+- [LinkedIn](https://linkedin.com/in/abdallahassi)  
+- 📧 Email: abd90assi@gmail.com  

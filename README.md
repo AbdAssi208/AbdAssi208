@@ -22,5 +22,5 @@
 ---
 
 ## 🌍 Connect with me  
-- [LinkedIn](https://linkedin.com/in/abdallahassi)  
+- [LinkedIn](https://linkedin.com/in/abdallhassi)  
 - 📧 Email: abd90assi@gmail.com  
